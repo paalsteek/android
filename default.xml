@@ -353,7 +353,7 @@
 
   <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="tezet/android_system_core" revision="jellybean" />
+  <project path="system/core" name="paalsteek/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="tezet/android_system_netd" revision="jellybean" />
