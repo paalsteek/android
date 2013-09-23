@@ -46,7 +46,7 @@
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project paht="device/moto/jordan-common" name="Quarx2k/android_device_moto_jordan-common" groups="device" revision="refs/heads/cm10.2-2.6.32" />
-  <project paht="device/moto/milestone2" name="paalsteek/android_device_moto_milestone2" groups="device" />
+  <project paht="device/moto/milestone2" name="paalsteek/android_device_motorola_milestone2" groups="device" revision="refs/heads/ics" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
@@ -406,7 +406,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" />
-  <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" groups="pdk" />
+  <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" groups="pdk" revision="refs/heads/gingerbread" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
