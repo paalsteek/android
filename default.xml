@@ -230,6 +230,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" groups="pdk" />
+  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
@@ -293,6 +294,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <project path="kernel/moto/milestone2" name="paalsteek/android_kernel_moto_milestone2" revision="refs/heads/master" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
